@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Meghana Chevva
+# Hey there!👋 I'm Meghana Chevva
 
 **Full Stack Developer | Software Engineer/Developer | Front End/Back End Engineer**
 
