@@ -11,41 +11,6 @@
 Passionate about crafting elegant solutions to complex problems, I blend creativity and technical skills to build innovative applications. Currently, I'm diving deep into the realms of full-stack development and machine learning, always on the lookout for new challenges and opportunities to learn. Graduating in December 2024 with a Master's in Computer Science from UTA.
 
 ---
-Sure! Here’s an updated version with a "Current Projects" section:
-
----
-
-# 👋 Hey there! I'm Meghana Chevva
-
-**Full Stack Developer | Software Engineer/Developer | Front End/Back End Engineer**
-
-📧 [ch.meghanah@gmail.com](mailto:ch.meghanah@gmail.com) | 📞 +1 8505972925  
-🔗 [LinkedIn](https://www.linkedin.com/in/meghanachevva) | 🌐 [Portfolio](https://www.meghanachevva.com)
-
----
-
-## 🚀 About Me
-
-Passionate about crafting elegant solutions to complex problems, I blend creativity and technical skills to build innovative applications. Currently, I'm diving deep into the realms of full-stack development and machine learning, always on the lookout for new challenges and opportunities to learn. Graduating in December 2024 with a Master's in Computer Science from UTA.
-
----
-
-## 💼 Experience Highlights
-
-### Software Engineer @ NCR Atleos
-*Oct 2020 – Dec 2022, Hyderabad, India*
-
-- **ATM Magic Maker**: Enhanced NCR Activate Enterprise Product, a self-service ATM software, using .NET and AngularJS. Made transactions smoother and faster!
-- **Code Whisperer**: Optimized performance and efficiency by mastering AngularJS Component Interaction techniques.
-- **Guardian of Quality**: Developed over 500 automation test cases with Java and Robot Framework, ensuring our product was rock-solid.
-
-### Software Intern @ NCR Atleos
-*Jan 2020 – Oct 2020, Hyderabad, India*
-
-- **Bug Buster**: Squashed intricate bugs and implemented new features, contributing to high-quality software.
-- **Team Player**: Worked independently and collaboratively to deliver effective solutions.
-
----
 
 ## 🔧 Current Projects
 
