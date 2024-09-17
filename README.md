@@ -12,17 +12,6 @@ Passionate about crafting elegant solutions to complex problems, I blend creativ
 
 ---
 
-## 🔧 Current Projects
-
-### Maverick Rover Team (MRT) Website
-*Creating the official website for the Maverick Rover Team for the [2024 University Rover Challenge](https://urc.marssociety.org/).*
-
-- **Role**: Full Stack Developer
-- **Tech Stack**: React.js, Node.js, Express.js
-- **Description**: Designing and developing a responsive website to showcase the Maverick Rover Team's projects, achievements, and updates for the upcoming competition.
-
----
-
 ## 🛠 Tech Stack
 
 **Languages:**  
